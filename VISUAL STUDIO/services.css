@@ -1,0 +1,17 @@
+.services {
+    width: 500px;
+    height: 250px;
+    margin-left: 470px;
+    margin-top: 150px;
+}
+.h-4 {
+    font-size: 1.5rem;
+    font-family: unset;
+    text-align: center;
+}
+.btn {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 660px;
+    margin-top: 20px;
+    background-color: #8a8af2;
+}
